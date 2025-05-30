@@ -69,6 +69,11 @@
 </p>
 
 ---
+<!-- Snake -->
+<div align="center">
+  
+  ![snake gif](https://github.com/Shivi7757/Shivi7757/blob/output/github-snake-dark.svg)
+</div>
 
 ## 🎯 Currently Learning
 
@@ -81,3 +86,5 @@
 ## 💡 Quote
 
 > “Stay curious. Stay humble. Keep building.”
+
+
